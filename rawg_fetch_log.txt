@@ -1,0 +1,297 @@
+[2025-07-29 16:33:56] Fetch started at page 1
+[2025-07-29 16:33:58] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'rating': 4.47, 'description': '', 'released': '2013-09-17', 'slug': 'grand-theft-auto-v', 'id': 3498, 'name': 'Grand Theft Auto V'}]]
+[2025-07-29 16:33:58] Fetch ended at 2025-07-29 16:33:58.998849. Total games: 1, Requests this session: 2, Total requests today: 2
+[2025-07-29 16:43:06] Fetch started at page 1
+[2025-07-29 16:43:09] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'description': '', 'rating': 4.47, 'id': 3498, 'slug': 'grand-theft-auto-v', 'name': 'Grand Theft Auto V', 'released': '2013-09-17'}]]
+[2025-07-29 16:43:09] Fetch ended at 2025-07-29 16:43:09.698002. Total games: 1, Requests this session: 2, Total requests today: 4
+[2025-07-29 17:14:15] Fetch started at page 1
+[2025-07-29 17:14:17] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'id': 3498, 'released': '2013-09-17', 'description': '', 'slug': 'grand-theft-auto-v', 'name': 'Grand Theft Auto V', 'rating': 4.47}]]
+[2025-07-29 17:14:17] Fetch ended at 2025-07-29 17:14:17.092507. Total games: 1, Requests this session: 2, Total requests today: 6
+[2025-07-29 17:15:15] Fetch started at page 1
+[2025-07-29 17:15:17] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'name': 'Grand Theft Auto V', 'id': 3498, 'description': '', 'rating': 4.47, 'released': '2013-09-17', 'slug': 'grand-theft-auto-v'}]]
+[2025-07-29 17:15:17] Fetch ended at 2025-07-29 17:15:17.705238. Total games: 1, Requests this session: 2, Total requests today: 8
+[2025-07-31 12:41:57] Fetch started at page 1
+[2025-07-31 12:41:59] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'slug': 'grand-theft-auto-v', 'name': 'Grand Theft Auto V', 'released': '2013-09-17', 'rating': 4.47, 'id': 3498, 'description': ''}]]
+[2025-07-31 12:41:59] Fetch ended at 2025-07-31 12:41:59.842380. Total games: 1, Requests this session: 2, Total requests today: 10
+[2025-07-31 12:46:26] Fetch started at page 1
+[2025-07-31 12:46:29] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'description': '', 'rating': 4.47, 'id': 3498, 'slug': 'grand-theft-auto-v', 'released': '2013-09-17', 'name': 'Grand Theft Auto V'}]]
+[2025-07-31 12:46:29] Fetch ended at 2025-07-31 12:46:29.495473. Total games: 1, Requests this session: 2, Total requests today: 12
+[2025-07-31 12:50:38] Fetch started at page 1
+[2025-07-31 12:50:40] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'id': 3498, 'released': '2013-09-17', 'slug': 'grand-theft-auto-v', 'name': 'Grand Theft Auto V', 'description': '', 'rating': 4.47}]]
+[2025-07-31 12:50:40] Fetch ended at 2025-07-31 12:50:40.648202. Total games: 1, Requests this session: 2, Total requests today: 14
+[2025-07-31 12:51:28] Fetch started at page 1
+[2025-07-31 12:51:31] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'slug': 'grand-theft-auto-v', 'id': 3498, 'rating': 4.47, 'name': 'Grand Theft Auto V', 'released': '2013-09-17', 'description': ''}]]
+[2025-07-31 12:51:31] Fetch ended at 2025-07-31 12:51:31.339897. Total games: 1, Requests this session: 2, Total requests today: 16
+[2025-07-31 12:53:29] Fetch started at page 1
+[2025-07-31 12:53:32] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'released': '2013-09-17', 'id': 3498, 'description': '', 'rating': 4.47, 'name': 'Grand Theft Auto V', 'slug': 'grand-theft-auto-v'}]]
+[2025-07-31 12:53:32] Fetch ended at 2025-07-31 12:53:32.291558. Total games: 1, Requests this session: 2, Total requests today: 2
+[2025-07-31 12:55:44] Fetch started at page 1
+[2025-07-31 12:55:46] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'rating': 4.47, 'description': '', 'released': '2013-09-17', 'id': 3498, 'slug': 'grand-theft-auto-v', 'name': 'Grand Theft Auto V'}]]
+[2025-07-31 12:55:46] Fetch ended at 2025-07-31 12:55:46.893488. Total games: 1, Requests this session: 2, Total requests today: 4
+[2025-07-31 12:56:07] Fetch started at page 1
+[2025-07-31 12:56:09] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'description': '', 'name': 'Grand Theft Auto V', 'rating': 4.47, 'slug': 'grand-theft-auto-v', 'id': 3498, 'released': '2013-09-17'}]]
+[2025-07-31 12:56:09] Fetch ended at 2025-07-31 12:56:09.435168. Total games: 1, Requests this session: 2, Total requests today: 6
+[2025-07-31 12:58:00] Fetch started at page 1
+[2025-07-31 12:58:02] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'description': '', 'id': 3498, 'released': '2013-09-17', 'slug': 'grand-theft-auto-v', 'name': 'Grand Theft Auto V', 'rating': 4.47}]]
+[2025-07-31 12:58:02] Fetch ended at 2025-07-31 12:58:02.213906. Total games: 1, Requests this session: 2, Total requests today: 8
+[2025-07-31 12:58:26] Fetch started at page 1
+[2025-07-31 12:58:28] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(builtins.TypeError) SQLite Date type only accepts Python date objects as input.
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: [{'slug': 'grand-theft-auto-v', 'description': '', 'released': '2013-09-17', 'name': 'Grand Theft Auto V', 'id': 3498, 'rating': 4.47}]]
+[2025-07-31 12:58:28] Fetch ended at 2025-07-31 12:58:28.650357. Total games: 1, Requests this session: 2, Total requests today: 10
+[2025-07-31 13:06:22] Fetch started at page 1
+[2025-07-31 14:05:09] Fetch started at page 1
+[2025-07-31 14:05:21] Page 1 done. Games: 1, Requests: 2, Elapsed: 12.0s, G/h: 300.86, R/h: 601.72
+[2025-07-31 14:05:24] Page 2 done. Games: 2, Requests: 4, Elapsed: 15.8s, G/h: 454.52, R/h: 909.04
+[2025-07-31 14:05:29] Page 3 done. Games: 3, Requests: 6, Elapsed: 20.8s, G/h: 518.03, R/h: 1036.06
+[2025-07-31 14:05:35] Page 4 done. Games: 4, Requests: 8, Elapsed: 26.9s, G/h: 534.75, R/h: 1069.50
+[2025-07-31 14:05:35] Fetch ended at 2025-07-31 14:05:35.984267. Total games: 4, Requests this session: 8, Total requests today: 18
+[2025-07-31 14:07:44] Fetch started at page 5
+[2025-07-31 14:07:51] Page 5 done. Games: 1, Requests: 2, Elapsed: 6.3s, G/h: 572.30, R/h: 1144.61
+[2025-07-31 14:07:51] Fetch ended at 2025-07-31 14:07:51.196215. Total games: 1, Requests this session: 2, Total requests today: 20
+[2025-07-31 14:10:11] Fetch started at page 6
+[2025-07-31 14:10:17] Page 6 done. Games: 1, Requests: 2, Elapsed: 6.8s, G/h: 530.45, R/h: 1060.90
+[2025-07-31 14:10:24] Page 7 done. Games: 2, Requests: 4, Elapsed: 12.9s, G/h: 558.84, R/h: 1117.67
+[2025-07-31 14:10:28] Page 8 done. Games: 3, Requests: 6, Elapsed: 17.4s, G/h: 622.16, R/h: 1244.33
+[2025-07-31 14:10:28] Fetch ended at 2025-07-31 14:10:28.498016. Total games: 3, Requests this session: 6, Total requests today: 26
+[2025-07-31 14:12:04] Fetch started at page 1
+[2025-07-31 14:12:08] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:12:08] Fetch ended at 2025-07-31 14:12:08.687356. Total games: 0, Requests this session: 1, Total requests today: 27
+[2025-07-31 14:23:26] Fetch started at page 1
+[2025-07-31 14:23:28] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:23:28] Fetch ended at 2025-07-31 14:23:28.030292. Total games: 0, Requests this session: 1, Total requests today: 28
+[2025-07-31 14:25:11] Fetch started at page 1
+[2025-07-31 14:25:14] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:25:14] Fetch ended at 2025-07-31 14:25:14.418117. Total games: 0, Requests this session: 1, Total requests today: 29
+[2025-07-31 14:36:07] Fetch started at page 1
+[2025-07-31 14:36:07] Error on page 1: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=1
+[2025-07-31 14:36:07] Fetch ended at 2025-07-31 14:36:07.674084. Total games: 0, Requests this session: 1, Total requests today: 30
+[2025-07-31 14:38:31] Fetch started at page 1
+[2025-07-31 14:38:31] Error on page 1: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=1
+[2025-07-31 14:38:31] Fetch ended at 2025-07-31 14:38:31.627164. Total games: 0, Requests this session: 1, Total requests today: 31
+[2025-07-31 14:39:36] Fetch started at page 1
+[2025-07-31 14:39:43] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:39:43] Fetch ended at 2025-07-31 14:39:43.446678. Total games: 0, Requests this session: 1, Total requests today: 32
+[2025-07-31 14:42:07] Fetch started at page 1
+[2025-07-31 14:42:08] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:42:08] Fetch ended at 2025-07-31 14:42:08.739835. Total games: 0, Requests this session: 1, Total requests today: 33
+[2025-07-31 14:48:27] Fetch started at page 1
+[2025-07-31 14:48:28] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:48:28] Fetch ended at 2025-07-31 14:48:28.382195. Total games: 0, Requests this session: 1, Total requests today: 34
+[2025-07-31 14:48:56] Fetch started at page 1
+[2025-07-31 14:48:56] Error on page 1: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=1
+[2025-07-31 14:48:56] Fetch ended at 2025-07-31 14:48:56.330083. Total games: 0, Requests this session: 1, Total requests today: 35
+[2025-07-31 14:50:43] Fetch started at page 1
+[2025-07-31 14:50:43] Error on page 1: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=1
+[2025-07-31 14:50:43] Fetch ended at 2025-07-31 14:50:43.979673. Total games: 0, Requests this session: 1, Total requests today: 36
+[2025-07-31 14:53:23] Fetch started at page 1
+[2025-07-31 14:53:24] Error on page 1: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=1
+[2025-07-31 14:53:24] Fetch ended at 2025-07-31 14:53:24.130956. Total games: 0, Requests this session: 1, Total requests today: 37
+[2025-07-31 14:54:43] Fetch started at page 1
+[2025-07-31 14:54:44] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:54:44] Fetch ended at 2025-07-31 14:54:44.732096. Total games: 0, Requests this session: 1, Total requests today: 38
+[2025-07-31 14:56:57] Fetch started at page 1
+[2025-07-31 14:56:59] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:56:59] Fetch ended at 2025-07-31 14:56:59.206428. Total games: 0, Requests this session: 1, Total requests today: 39
+[2025-07-31 14:58:33] Fetch started at page 1
+[2025-07-31 14:58:34] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 14:58:34] Fetch ended at 2025-07-31 14:58:34.320392. Total games: 0, Requests this session: 1, Total requests today: 40
+[2025-07-31 15:05:53] Fetch started at page 1
+[2025-07-31 15:05:54] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 15:05:54] Fetch ended at 2025-07-31 15:05:54.460671. Total games: 0, Requests this session: 1, Total requests today: 41
+[2025-07-31 16:39:43] Fetch started at page 1
+[2025-07-31 16:39:44] Error on page 1: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: games.id
+[SQL: INSERT INTO games (id, slug, name, description, released, rating) VALUES (?, ?, ?, ?, ?, ?)]
+[parameters: (9767, 'hollow-knight', 'Hollow Knight', '', '2017-02-23', 4.41)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 16:39:44] Fetch ended at 2025-07-31 16:39:44.849917. Total games: 0, Requests this session: 1, Total requests today: 42
+[2025-07-31 17:12:36] Fetch started at page 1
+[2025-07-31 17:12:42] Error on page 1: (sqlite3.IntegrityError) UNIQUE constraint failed: screenshots.id
+[SQL: INSERT INTO screenshots (id, game_id, url) VALUES (?, ?, ?)]
+[parameters: [(72619, 9767, 'https://media.rawg.io/media/screenshots/6b3/6b309936c1fe07e9b7fa5e62a372790d.jpg'), (72620, 9767, 'https://media.rawg.io/media/screenshots/1a7/1a7a69db58c19d323f1dfbcc340d3f1e.jpg'), (72621, 9767, 'https://media.rawg.io/media/screenshots/723/7237d0c546b0d17a6a226f38823081d4.jpg'), (72622, 9767, 'https://media.rawg.io/media/screenshots/331/331095489397e7387681d921e8e472d4.jpg'), (72623, 9767, 'https://media.rawg.io/media/screenshots/5db/5db89e896496352c8f0a0a0bd545bd6d.jpg'), (72624, 9767, 'https://media.rawg.io/media/screenshots/843/843e06c9c5b26c309b47bd7075320dae.jpg')]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-07-31 17:12:42] Fetch ended at 2025-07-31 17:12:42.469392. Total games: 1, Requests this session: 2, Total requests today: 44
+[2025-07-31 19:48:27] Fetch started at page 1
+[2025-07-31 19:51:08] Page 1 done. Games: 39, Requests: 40, Elapsed: 161.2s, G/h: 870.87, R/h: 893.20
+[2025-07-31 19:51:08] Fetch ended at 2025-07-31 19:51:08.585147. Total games: 39, Requests this session: 40, Total requests today: 84
+[2025-07-31 19:52:04] Fetch started at page 2
+[2025-07-31 19:52:05] Error on page 2: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=2
+[2025-07-31 19:52:05] Fetch ended at 2025-07-31 19:52:05.045686. Total games: 0, Requests this session: 1, Total requests today: 85
+[2025-07-31 19:54:14] Fetch started at page 2
+[2025-07-31 19:54:15] Error on page 2: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=2
+[2025-07-31 19:54:15] Fetch ended at 2025-07-31 19:54:15.224787. Total games: 0, Requests this session: 1, Total requests today: 86
+[2025-07-31 19:55:28] Fetch started at page 2
+[2025-07-31 19:55:31] Page 2 done. Games: 1, Requests: 2, Elapsed: 3.3s, G/h: 1090.18, R/h: 2180.36
+[2025-07-31 19:55:34] Page 3 done. Games: 2, Requests: 4, Elapsed: 6.9s, G/h: 1040.96, R/h: 2081.92
+[2025-07-31 19:55:42] Page 4 done. Games: 3, Requests: 6, Elapsed: 14.8s, G/h: 730.04, R/h: 1460.08
+[2025-07-31 19:55:48] Page 5 done. Games: 4, Requests: 8, Elapsed: 20.7s, G/h: 694.70, R/h: 1389.41
+[2025-07-31 19:55:56] Page 6 done. Games: 5, Requests: 10, Elapsed: 28.4s, G/h: 634.50, R/h: 1268.99
+[2025-07-31 19:55:56] Fetch ended at 2025-07-31 19:55:56.450619. Total games: 5, Requests this session: 10, Total requests today: 96
+[2025-07-31 19:56:31] Fetch started at page 7
+[2025-07-31 19:56:34] Page 7 done. Games: 1, Requests: 2, Elapsed: 3.1s, G/h: 1166.97, R/h: 2333.94
+[2025-07-31 19:56:38] Page 8 done. Games: 2, Requests: 4, Elapsed: 6.9s, G/h: 1040.19, R/h: 2080.37
+[2025-07-31 19:56:38] Fetch ended at 2025-07-31 19:56:38.198152. Total games: 2, Requests this session: 4, Total requests today: 100
+[2025-07-31 19:56:43] Fetch started at page 9
+[2025-07-31 19:56:43] Error on page 9: 401 Client Error: Unauthorized for url: https://api.rawg.io/api/games?page_size=40&ordering=-added&page=9
+[2025-07-31 19:56:43] Fetch ended at 2025-07-31 19:56:43.340775. Total games: 0, Requests this session: 1, Total requests today: 101
+[2025-07-31 19:57:31] Fetch started at page 9
+[2025-07-31 20:01:00] Page 9 done. Games: 40, Requests: 41, Elapsed: 209.0s, G/h: 688.93, R/h: 706.15
+[2025-07-31 20:01:00] Fetch ended at 2025-07-31 20:01:00.116561. Total games: 40, Requests this session: 41, Total requests today: 142
+[2025-08-01 12:44:03] Fetch started at page 10
+[2025-08-01 12:47:05] Page 10 done. Games: 40, Requests: 41, Elapsed: 182.6s, G/h: 788.47, R/h: 808.18
+[2025-08-01 12:50:25] Page 11 done. Games: 80, Requests: 82, Elapsed: 382.6s, G/h: 752.73, R/h: 771.55
+[2025-08-01 12:53:45] Page 12 done. Games: 120, Requests: 123, Elapsed: 582.5s, G/h: 741.63, R/h: 760.17
+[2025-08-01 12:53:45] Fetch ended at 2025-08-01 12:53:45.697186. Total games: 120, Requests this session: 123, Total requests today: 265
+[2025-08-01 13:32:48] Fetch started at page 1
+[2025-08-01 13:32:50] Page 1 done. Games: 0, Requests: 1, Elapsed: 1.2s, G/h: 0.00, R/h: 2934.29
+[2025-08-01 13:36:06] Page 2 done. Games: 39, Requests: 41, Elapsed: 197.4s, G/h: 711.25, R/h: 747.72
+[2025-08-01 13:39:15] Page 3 done. Games: 78, Requests: 81, Elapsed: 386.2s, G/h: 727.01, R/h: 754.98
+[2025-08-01 13:42:22] Page 4 done. Games: 117, Requests: 121, Elapsed: 573.5s, G/h: 734.41, R/h: 759.52
+[2025-08-01 13:42:22] Fetch ended at 2025-08-01 13:42:22.465835. Total games: 117, Requests this session: 121, Total requests today: 386
+[2025-08-01 14:12:25] Fetch started at page 1
+[2025-08-01 14:12:26] Page 1 done. Games: 0, Requests: 1, Elapsed: 0.6s, G/h: 0.00, R/h: 6302.83
+[2025-08-01 14:12:27] Page 2 done. Games: 0, Requests: 2, Elapsed: 1.7s, G/h: 0.00, R/h: 4156.30
+[2025-08-01 14:12:28] Page 3 done. Games: 0, Requests: 3, Elapsed: 2.2s, G/h: 0.00, R/h: 4807.79
+[2025-08-01 14:12:28] Page 4 done. Games: 0, Requests: 4, Elapsed: 3.0s, G/h: 0.00, R/h: 4877.93
+[2025-08-01 14:15:53] Page 5 done. Games: 39, Requests: 44, Elapsed: 207.6s, G/h: 676.44, R/h: 763.17
+[2025-08-01 14:19:11] Page 6 done. Games: 78, Requests: 84, Elapsed: 406.0s, G/h: 691.64, R/h: 744.85
+[2025-08-01 14:22:32] Page 7 done. Games: 117, Requests: 124, Elapsed: 606.7s, G/h: 694.23, R/h: 735.77
+[2025-08-01 14:25:51] Page 8 done. Games: 156, Requests: 164, Elapsed: 805.4s, G/h: 697.26, R/h: 733.02
+[2025-08-01 14:25:52] Page 9 done. Games: 156, Requests: 165, Elapsed: 806.5s, G/h: 696.35, R/h: 736.53
+[2025-08-01 14:25:53] Page 10 done. Games: 156, Requests: 166, Elapsed: 807.6s, G/h: 695.43, R/h: 740.01
+[2025-08-01 14:25:54] Page 11 done. Games: 156, Requests: 167, Elapsed: 808.7s, G/h: 694.45, R/h: 743.42
+[2025-08-01 14:25:55] Page 12 done. Games: 156, Requests: 168, Elapsed: 809.6s, G/h: 693.65, R/h: 747.01
+[2025-08-01 14:29:36] Page 13 done. Games: 196, Requests: 209, Elapsed: 1030.9s, G/h: 684.46, R/h: 729.86
+[2025-08-01 14:33:08] Page 14 done. Games: 236, Requests: 250, Elapsed: 1243.1s, G/h: 683.46, R/h: 724.00
+[2025-08-01 14:36:45] Page 15 done. Games: 276, Requests: 291, Elapsed: 1459.8s, G/h: 680.65, R/h: 717.64
+[2025-08-01 14:40:17] Page 16 done. Games: 316, Requests: 332, Elapsed: 1671.7s, G/h: 680.50, R/h: 714.96
+[2025-08-01 14:43:39] Page 17 done. Games: 356, Requests: 373, Elapsed: 1873.9s, G/h: 683.92, R/h: 716.58
+[2025-08-01 14:47:12] Page 18 done. Games: 396, Requests: 414, Elapsed: 2087.0s, G/h: 683.07, R/h: 714.12
+[2025-08-01 14:50:48] Page 19 done. Games: 436, Requests: 455, Elapsed: 2302.9s, G/h: 681.57, R/h: 711.28
+[2025-08-01 14:55:14] Page 20 done. Games: 476, Requests: 496, Elapsed: 2568.9s, G/h: 667.05, R/h: 695.08
+[2025-08-01 14:55:14] Fetch ended at 2025-08-01 14:55:14.755960. Total games: 476, Requests this session: 496, Total requests today: 882
+[2025-08-25 07:12:48] Fetch started at page 1
+[2025-08-25 07:12:50] Page 1 done. Games: 0, Requests: 1, Elapsed: 1.6s, G/h: 0.00, R/h: 2295.33
+[2025-08-25 07:12:51] Page 2 done. Games: 0, Requests: 2, Elapsed: 2.7s, G/h: 0.00, R/h: 2618.40
+[2025-08-25 07:12:52] Page 3 done. Games: 0, Requests: 3, Elapsed: 4.0s, G/h: 0.00, R/h: 2705.44
+[2025-08-25 07:12:54] Page 4 done. Games: 0, Requests: 4, Elapsed: 5.2s, G/h: 0.00, R/h: 2781.86
+[2025-08-25 07:12:55] Page 5 done. Games: 0, Requests: 5, Elapsed: 6.5s, G/h: 0.00, R/h: 2763.33
+[2025-08-25 07:12:56] Page 6 done. Games: 0, Requests: 6, Elapsed: 7.6s, G/h: 0.00, R/h: 2825.84
+[2025-08-25 07:12:57] Page 7 done. Games: 0, Requests: 7, Elapsed: 8.8s, G/h: 0.00, R/h: 2862.22
+[2025-08-25 07:12:58] Page 8 done. Games: 0, Requests: 8, Elapsed: 10.1s, G/h: 0.00, R/h: 2852.40
+[2025-08-25 07:13:00] Page 9 done. Games: 0, Requests: 9, Elapsed: 11.3s, G/h: 0.00, R/h: 2876.36
+[2025-08-25 07:13:01] Page 10 done. Games: 0, Requests: 10, Elapsed: 12.5s, G/h: 0.00, R/h: 2888.42
+[2025-08-25 07:13:02] Page 11 done. Games: 0, Requests: 11, Elapsed: 13.7s, G/h: 0.00, R/h: 2881.36
+[2025-08-25 07:13:03] Page 12 done. Games: 0, Requests: 12, Elapsed: 14.9s, G/h: 0.00, R/h: 2896.95
+[2025-08-25 07:13:05] Page 13 done. Games: 0, Requests: 13, Elapsed: 16.2s, G/h: 0.00, R/h: 2896.23
+[2025-08-25 07:13:05] Page 14 done. Games: 0, Requests: 14, Elapsed: 16.7s, G/h: 0.00, R/h: 3018.60
+[2025-08-25 07:13:06] Page 15 done. Games: 0, Requests: 15, Elapsed: 17.8s, G/h: 0.00, R/h: 3026.46
+[2025-08-25 07:13:13] Page 16 done. Games: 1, Requests: 17, Elapsed: 25.0s, G/h: 143.75, R/h: 2443.75
+[2025-08-25 07:13:15] Page 17 done. Games: 1, Requests: 18, Elapsed: 26.4s, G/h: 136.22, R/h: 2451.94
+[2025-08-25 07:13:16] Page 18 done. Games: 1, Requests: 19, Elapsed: 27.5s, G/h: 130.95, R/h: 2488.07
+[2025-08-25 07:13:16] Page 19 done. Games: 1, Requests: 20, Elapsed: 28.1s, G/h: 128.29, R/h: 2565.89
+[2025-08-25 07:13:18] Page 20 done. Games: 1, Requests: 21, Elapsed: 29.2s, G/h: 123.22, R/h: 2587.55
+[2025-08-25 07:17:19] Page 21 done. Games: 41, Requests: 62, Elapsed: 271.0s, G/h: 544.60, R/h: 823.54
+[2025-08-25 07:17:19] Fetch ended at 2025-08-25 07:17:19.869005. Total games: 41, Requests this session: 62, Total requests today: 944
+[2025-08-25 07:19:28] Fetch started at page 1
+[2025-08-25 07:19:29] Page 1 done. Games: 0, Requests: 1, Elapsed: 1.3s, G/h: 0.00, R/h: 2811.23
+[2025-08-25 07:19:31] Page 2 done. Games: 0, Requests: 2, Elapsed: 2.5s, G/h: 0.00, R/h: 2836.15
+[2025-08-25 07:19:32] Page 3 done. Games: 0, Requests: 3, Elapsed: 3.8s, G/h: 0.00, R/h: 2822.71
+[2025-08-25 07:19:32] Page 4 done. Games: 0, Requests: 4, Elapsed: 4.5s, G/h: 0.00, R/h: 3196.46
+[2025-08-25 07:19:34] Page 5 done. Games: 0, Requests: 5, Elapsed: 5.6s, G/h: 0.00, R/h: 3204.73
+[2025-08-25 07:19:35] Page 6 done. Games: 0, Requests: 6, Elapsed: 6.7s, G/h: 0.00, R/h: 3213.54
+[2025-08-25 07:19:36] Page 7 done. Games: 0, Requests: 7, Elapsed: 8.3s, G/h: 0.00, R/h: 3051.27
+[2025-08-25 07:19:37] Page 8 done. Games: 0, Requests: 8, Elapsed: 9.5s, G/h: 0.00, R/h: 3040.29
+[2025-08-25 07:19:39] Page 9 done. Games: 0, Requests: 9, Elapsed: 11.0s, G/h: 0.00, R/h: 2945.46
+[2025-08-25 07:19:40] Page 10 done. Games: 0, Requests: 10, Elapsed: 12.3s, G/h: 0.00, R/h: 2928.06
+[2025-08-25 07:19:41] Page 11 done. Games: 0, Requests: 11, Elapsed: 13.3s, G/h: 0.00, R/h: 2966.47
+[2025-08-25 07:19:43] Page 12 done. Games: 0, Requests: 12, Elapsed: 14.6s, G/h: 0.00, R/h: 2951.43
+[2025-08-25 07:19:44] Page 13 done. Games: 0, Requests: 13, Elapsed: 15.8s, G/h: 0.00, R/h: 2957.97
+[2025-08-25 07:19:45] Page 14 done. Games: 0, Requests: 14, Elapsed: 17.1s, G/h: 0.00, R/h: 2949.08
+[2025-08-25 07:19:47] Page 15 done. Games: 0, Requests: 15, Elapsed: 19.2s, G/h: 0.00, R/h: 2813.94
+[2025-08-25 07:19:51] Page 16 done. Games: 1, Requests: 17, Elapsed: 22.6s, G/h: 159.19, R/h: 2706.31
+[2025-08-25 07:19:57] Page 17 done. Games: 1, Requests: 18, Elapsed: 28.8s, G/h: 124.87, R/h: 2247.71
+[2025-08-25 07:19:58] Page 18 done. Games: 1, Requests: 19, Elapsed: 30.2s, G/h: 119.26, R/h: 2265.92
+[2025-08-25 07:19:59] Page 19 done. Games: 1, Requests: 20, Elapsed: 30.8s, G/h: 116.92, R/h: 2338.35
+[2025-08-25 07:20:00] Page 20 done. Games: 1, Requests: 21, Elapsed: 31.9s, G/h: 112.84, R/h: 2369.57
+[2025-08-25 07:20:01] Page 21 done. Games: 1, Requests: 22, Elapsed: 32.6s, G/h: 110.45, R/h: 2429.98
+[2025-08-25 07:23:52] Page 22 done. Games: 41, Requests: 63, Elapsed: 264.5s, G/h: 558.04, R/h: 857.47
+[2025-08-25 07:23:52] Fetch ended at 2025-08-25 07:23:52.986220. Total games: 41, Requests this session: 63, Total requests today: 1007
